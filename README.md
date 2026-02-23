@@ -2,7 +2,7 @@
 
 This repository contains the dataset and code to reproduce results of the following conference paper:
 
-Guillermo García-Barrios, Manuel Fuentes, David Martín-Sacristán, "A Novel MADDPG Algorithm for Efficient Power Allocation in Cell-Free Massive MIMO," IEEE Wireless Communications and Networking Conference (WCNC), Milan, Italy, 2025. [Pending acceptance]
+G. García-Barrios, M. Fuentes and D. Martin-Sacristán, "A Novel MADDPG Algorithm for Efficient Power Allocation in Cell-Free Massive MIMO," 2025 IEEE Wireless Communications and Networking Conference (WCNC), Milan, Italy, 2025, pp. 1-6, doi: 10.1109/WCNC61545.2025.10978286.
 
 ## Abstract of the Paper
 
